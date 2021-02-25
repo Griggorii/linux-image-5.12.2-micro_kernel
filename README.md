@@ -3,7 +3,7 @@ lzma , linux , kernel , x64 , micro size , image , nouveau: nVidia Riva/TNT/GeFo
 
 Donate support micro kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
 
-Support ufw good + Support firewalD not support 
+Support ufw good + Support firewallD not support 
 
 Example /boot/initrd.img-5.12.2 copy to developer folder rename initrd.img-5.12.2.tar.gz view arhive structure
 
