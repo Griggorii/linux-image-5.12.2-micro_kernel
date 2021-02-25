@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Thu, 25 Feb 2021 16:43:43 +0800
+Source: linux-5.12.2
+Binary: linux-firmware-image-5.12.2 linux-headers-5.12.2 linux-image-5.12.2 linux-libc-dev
+Architecture: amd64 all
+Version: 5.12.2-4
+Distribution: focal
+Urgency: low
+Maintainer: Anonymous <root@griggoriix64>
+Changed-By: Anonymous <root@griggoriix64>
+Description:
+ linux-firmware-image-5.12.2 - Linux kernel firmware, version 5.12.2
+ linux-headers-5.12.2 - Linux kernel headers for 5.12.2 on
+ linux-image-5.12.2 - Linux kernel, version 5.12.2
+ linux-libc-dev - Linux support headers for userspace development
+Changes:
+ linux-5.12.2 (5.12.2-4) focal; urgency=low
+ .
+   * Custom built Linux kernel.
+Checksums-Sha1:
+ 0a14c8a245b3b52a88b01671f205d1494992c76d 9768 linux-firmware-image-5.12.2_5.12.2-4_amd64.deb
+ ed63856557ee2c66ece4ce744915e9adc81eeaf1 7182536 linux-headers-5.12.2_5.12.2-4_amd64.deb
+ 6c0cf626fbf473bf1e32856b72d9c0544a1a6caf 23857440 linux-image-5.12.2_5.12.2-4_amd64.deb
+ b99517b57fcf7eeb9affa7dffdddfc0a811f2b19 815956 linux-libc-dev_5.12.2-4_amd64.deb
+Checksums-Sha256:
+ 31ca0d34afc8ee9f058e47ba2c9bbba02bad516142c99c8272efe46969b8e851 9768 linux-firmware-image-5.12.2_5.12.2-4_amd64.deb
+ 2b4520507a236ea7662d69e7c8907f4a93df8e062c6d76d0305fc912fe9f018a 7182536 linux-headers-5.12.2_5.12.2-4_amd64.deb
+ dc1ca22fb267a7534d4a5d0ae2bab5f6df8fb9b77e4c1328242be968538bf8e9 23857440 linux-image-5.12.2_5.12.2-4_amd64.deb
+ 9891fe41b9373aa51c9c2846c506b6b8d29ed414ecff0a0a3e444d3b4bd6c8dc 815956 linux-libc-dev_5.12.2-4_amd64.deb
+Files:
+ 7095dd984f38fdb25967ecae03b52793 9768 kernel optional linux-firmware-image-5.12.2_5.12.2-4_amd64.deb
+ 9dbda28d83f403675ebd0a215dcf1dac 7182536 kernel optional linux-headers-5.12.2_5.12.2-4_amd64.deb
+ 3ec1456ade65eb7b41694a8c14dfb6db 23857440 kernel optional linux-image-5.12.2_5.12.2-4_amd64.deb
+ 650c09f39e24513c6bef61140f3fe154 815956 devel optional linux-libc-dev_5.12.2-4_amd64.deb
