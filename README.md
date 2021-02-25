@@ -3,6 +3,8 @@ lzma , linux , kernel , x64 , micro size , image , nouveau: nVidia Riva/TNT/GeFo
 
 Donate support micro kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
 
+Support ufw good + Support firewalD not support 
+
 Example /boot/initrd.img-5.12.2 copy to developer folder rename initrd.img-5.12.2.tar.gz view arhive structure
 
 FS: '9p' 'adfs' 'affs' 'afs' 'aufs' 'autofs4' 'befs' 'bfs' 'btrfs' 'cachefiles' 'ceph' 'cifs' 'coda' 'configfs' 'cramfs' 'dlm' 'ecryptfs' 'efivarfs' 'efs' 'f2fs' 'fat' 'freevxfs' 'fscache' 'fuse' 'gfs2' 'hfs' 'hfsplus' 'hpfs' 'isofs' 'jffs2' 'jfs' 'lockd' 'logfs' 'minix' 'ncpfs' 'nfs' 'nfs_common' 'nfsd' 'nilfs2' 'nls' 'ntfs' 'ocfs2' 'omfs' 'overlayfs' 'pstore' 'qnx4' 'qnx6' 'quota' 'reiserfs' 'romfs' 'squashfs' 'sysv' 'ubifs' 'udf' 'ufs' 'xfs'
