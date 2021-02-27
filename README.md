@@ -1,4 +1,4 @@
-# linux-image-5.12.2-micro_kernel | LZMA | ZRAM LZ4_COMPRESS
+# linux-image-5.12.2-micro_kernel | LZMA | ZRAM LZ4_COMPRESS | IP6 OFF config
 lzma , linux , kernel , x64 , micro size , image , nouveau: nVidia Riva/TNT/GeForce/Quadro/Tesla , mount good , merge config , gcc-10 , + obs cam support + new fs support , tty F5 F7 F2 | gdm3 lock F1 emulation , inlock F2 and А5 F7 , wayland support , 3G 4G LTE usb modem supports, CONFIG_KERNEL_LZMA=y , '9p' 'adfs' 'affs' 'afs' 'aufs' 'autofs4' 'befs' 'bfs' 'btrfs' 'cachefiles' 'ceph' 'cifs' 'coda' 'configfs' 'cramfs' 'dlm' 'ecryptfs' 'efivarfs' 'efs' 'f2fs' 'fat' 'freevxfs' 'fscache' 'fuse' 'gfs2' 'hfs' 'hfsplus' 'hpfs' 'isofs' 'jffs2' 'jfs' 'lockd' 'logfs' 'minix' 'ncpfs' 'nfs' 'nfs_common' 'nfsd' 'nilfs2' 'nls' 'ntfs' 'ocfs2' 'omfs' 'overlayfs' 'pstore' 'qnx4' 'qnx6' 'quota' 'reiserfs' 'romfs' 'squashfs' 'sysv' 'ubifs' 'udf' 'ufs' 'xfs'
 
 Donate support micro kernel clean carma corporations: https://yoomoney.ru/to/410014959813799
